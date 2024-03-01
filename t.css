@@ -1,0 +1,203 @@
+body{
+    background-color: black;
+    
+    
+}
+.d-text{
+    background-color: wheat;
+    margin: 10px 350px ; 
+    padding: 10px;
+    border:5px solid gold;
+    
+}
+
+.d-table{
+    background-color: wheat;
+    margin: 10px 350px  ; 
+    padding: 10px;
+    border:5px solid gold;
+    
+    
+    
+}
+
+
+
+.n{
+    text-align: center;
+}
+
+.l{
+    text-align: start;
+    
+}
+
+.b{
+    background-color: blue;
+    padding: 12px 20px;
+    border: 1px solid;
+    border-radius: 10px;
+
+}
+.dd{
+    width: 90%;
+    padding: 12px 20px;
+    text-align: start;
+    margin: 8px ;
+    
+}
+.i{
+    width: 90%;
+    padding: 12px 20px;
+    text-align: start;
+    margin: 8px ;
+    
+}
+
+table,tr,td{
+    border: 1px solid ;
+
+}
+
+table{
+    width: 100%;
+    
+    
+    
+}
+
+th{
+    background-color: greenyellow;
+    padding: 20px;
+}
+
+td{
+    height: 100%;
+    vertical-align: middle;
+    text-align: center;
+    padding: 10px;
+}
+
+td{
+    height: 100%;
+    vertical-align: middle;
+    
+    padding: 10px;
+    
+    
+}
+
+
+tr:hover{
+    background-color:gold ;
+
+}
+
+
+
+li{
+    list-style-type: none;
+    text-align: center !important;
+    
+    
+    
+
+}
+
+input:checked + label{
+    color: green;
+}
+ul{
+    padding: unset;
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px) {
+    .d-text{
+        background-color: wheat;
+        margin: 10px 3px ; 
+        padding: 10px;
+        border:5px solid gold ;
+        
+    }
+    
+    .d-table{
+        background-color: wheat;
+        margin: 10px 3px  ; 
+        padding: 10px;
+        border:5px solid gold ;
+        
+        
+        
+    }
+    
+    
+  }
+  
+  @media screen and (min-width: 481px) and (max-width: 768px) {
+    .d-text{
+        background-color: wheat;
+        margin: 10px 5px ; 
+        padding: 10px;
+        border:5px solid gold ;
+        
+    }
+    
+    .d-table{
+        background-color: wheat;
+        margin: 10px 5px  ; 
+        padding: 10px;
+        border:5px solid gold;
+        
+        
+        
+    }
+    
+  }
+  
+  @media screen and (min-width: 769px) and (max-width: 1024px) {
+    .d-text{
+        background-color: wheat;
+        margin: 10px 100px ; 
+        padding: 10px;
+        border:5px solid gold;
+        
+    }
+    
+    .d-table{
+        background-color: wheat;
+        margin: 10px 100px  ; 
+        padding: 10px;
+        border:5px solid gold;
+        
+        
+        
+    }
+    
+  }
+  
+  @media screen and (min-width: 1025px) and (max-width: 1200px) {
+    .d-text{
+        background-color: wheat;
+        margin: 10px 100px ; 
+        padding: 10px;
+        border:5px solid gold;
+        
+    }
+    
+    .d-table{
+        background-color: wheat;
+        margin: 10px 100px  ; 
+        padding: 10px;
+        border:5px solid gold;
+        
+        
+        
+    }
+    
+  }
+/*   
+  @media screen and (min-width: 1201px) {
+   
+  }
+  
+   */
